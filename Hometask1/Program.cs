@@ -20,11 +20,11 @@ int[] GenerateArray(int len, int min, int max)//получение массив�
 }
 //int[] GenerateArray(int len)//получение массива  
 //{
- //   int[] array = new int [len];
- //   for (int i = 0;i < array.Length; i ++)
- //   {
- //       array[i] = ReadInt($"Введите {i + 1} -й элемент");
- //   }
+//   int[] array = new int [len];
+//   for (int i = 0;i < array.Length; i ++)
+//   {
+//       array[i] = ReadInt($"Введите {i + 1} -й элемент");
+//   }
 //  return array;
 //}
 void PrintArray(int[] array)
